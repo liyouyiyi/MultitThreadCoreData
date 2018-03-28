@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/liyouyiyi/MultitThreadCoreData/master/tvjsq/TV加速器.ipa</string>
+					<string>https://raw.githubusercontent.com/liyouyiyi/MultitThreadCoreData/master/TV加速器.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/liyouyiyi/MultitThreadCoreData/master/tvjsq/tx57.png</string>
+					<string>https://raw.githubusercontent.com/liyouyiyi/MultitThreadCoreData/master/tx57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/liyouyiyi/MultitThreadCoreData/master/tvjsq/tx512.png</string>
+					<string>https://raw.githubusercontent.com/liyouyiyi/MultitThreadCoreData/master/tx512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
